@@ -30,8 +30,8 @@ function Footer() {
                             ><i className="fab fa-github"></i
                         ></a>
                   </div>
-                    © 2023 Makola:
-                    <a className="text-dark" href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+                    © 2025 Makola:
+                    <a className="text-dark" href="https://mdbootstrap.com/"> makola.com</a>
                 </div>
             </footer>
     </div>
